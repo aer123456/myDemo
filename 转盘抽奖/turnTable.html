@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="/css/gulp/turnTable.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min_c8b6f98.css">
+</head>
+<body>
+
+    <!--抽奖获得深度报告查询弹层-->
+    <div class="modal fade" id="msgModal1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">恭喜您获得</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="img" style="background:url('/img/gulp/credit_1.png');">
+                        <p>1</p>
+                    </div>
+                    <p>深度报告查询一次</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btn_sure1" data-dismiss="modal">确定</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!--抽奖获得简明报告查询弹层-->
+    <div class="modal fade" id="msgModal2">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">恭喜您获得</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="img" style="background:url('/img/gulp/credit_2.png');">
+                        <p>1</p>
+                    </div>
+                    <p>简明报告查询一次</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btn_sure2" data-dismiss="modal">确定</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!--抽奖获得10积分弹层提示-->
+    <div class="modal fade" id="msgModal3">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">恭喜您获得</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="img" style="background:url('/img/gulp/credit_3.png');">
+                        <p>1</p>
+                    </div>
+                    <p>10积分</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="btn_sure3" data-dismiss="modal">确定</button>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!--转盘抽奖-->
+    <div id="rooler_content">
+        <div class="rooler">
+            <div class="rooler_arrow">
+                <a href="javascript:rotate();" class="rooler_start">
+                    <p>开始</p>
+                </a>
+            </div>
+        </div>
+        <div class="rooler_footer"></div>
+    </div>
+
+    <script src="/js/jquery-1.9.1.js"></script>
+    <script src="../static/js/JQrotate.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="../static/js/turnTable.js"></script>
+    <!--<script type="text/javascript">-->
+        <!--$(document).ready(function(){-->
+            <!--$("#msgModal1").modal('show');-->
+        <!--});-->
+    <!--</script>-->
+</body>
+</html>
