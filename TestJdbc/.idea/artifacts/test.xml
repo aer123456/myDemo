@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="test">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="root">
+      <element id="archive" name="TestJdbc.jar">
+        <element id="module-output" name="TestJdbc" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar" />
+      <element id="library" level="module" name="ojdbc14.jar" module-name="TestJdbc" />
+      <element id="library" level="module" name="postgresql-9.4-1200.jdbc4.jar" module-name="TestJdbc" />
+      <element id="library" level="module" name="jdom-1.0.jar" module-name="TestJdbc" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<ds-config> 
+<pool> 
+<type>postgresql</type> 
+<name>pg21</name> 
+<driver>org.postgresql.Driver</driver> 
+<url>jdbc:postgresql://192.168.2.21:6432/postgre</url> 
+<username>postgre</username> 
+<password>123456</password> 
+<maxconn>50</maxconn> 
+</pool> 
+</ds-config> 

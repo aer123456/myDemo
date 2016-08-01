@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test
+END
+DBConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/DBConnectionPool.java
+END
+BaseConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/BaseConfig.java
+END
+DBConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/DBConnectionManager.java
+END
+DBManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/DBManager.java
+END
+DSConfigBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/DSConfigBean.java
+END
+JDBC.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/JDBC.java
+END
+ServiceConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/ServiceConfig.java
+END
+JdbcInsterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/JdbcInsterTest.java
+END
+ParseDSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/ParseDSConfig.java
+END
+ConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/PM/!svn/ver/3587/trunk/16-01-HDBC%E9%A1%B9%E7%9B%AE/%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81/simu_tool/TestJdbc/src/com/cintel/test/ConnectionPool.java
+END

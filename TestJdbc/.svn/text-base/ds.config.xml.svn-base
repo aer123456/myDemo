@@ -1,0 +1,11 @@
+<ds-config> 
+<pool> 
+<type>oracle</type> 
+<name>orcl210</name> 
+<driver>oracle.jdbc.OracleDriver</driver> 
+<url> jdbc:oracle:thin:@192.168.2.210:1521:orcl210</url> 
+<username>scfdbc</username> 
+<password>scfdbc123</password> 
+<maxconn>50</maxconn> 
+</pool> 
+</ds-config> 

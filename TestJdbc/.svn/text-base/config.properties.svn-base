@@ -1,0 +1,19 @@
+#数据库驱动
+jdbc_driver = org.postgresql.Driver
+#jdbc_driver = oracle.jdbc.OracleDriver
+#数据库URL
+jdbc_url = jdbc:postgresql://192.168.2.239:26661/fdsf
+#jdbc_url = jdbc:oracle:thin:@192.168.2.210:1521:orcl210
+数据库用户名
+jdbc_user = cintel
+#jdbc_user = scfdbc
+#数据库用户密码
+jdbc_pwd = 123456
+#jdbc_pwd = scfdbc123
+#连接池的初始大小
+init_conn = 10
+#连接池自动增加的大小
+incre_conn = 2
+#连接池最大的大小
+max_conn = 50
+
